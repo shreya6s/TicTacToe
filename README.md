@@ -22,7 +22,12 @@ To get started with the game:
 
 ## Demo
 
-Demo video of the game is provided in the folder named "demo"
+Demo video of the game is provided in the folder named "demo".
+Short Clip of the single player mode is provided below.
+
+
+https://github.com/shreya6s/TicTacToe/assets/120666315/8d8afa9c-905c-4d09-b40d-2a674a5637d7
+
 
 ## Screenshots
 
