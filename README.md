@@ -27,12 +27,11 @@ Short Clip of the Single Player and Multi Player Mode is provided below.
 
 https://github.com/shreya6s/TicTacToe/assets/120666315/d6cb88af-d180-48da-8d91-b691380b8495
 
-
 https://github.com/shreya6s/TicTacToe/assets/120666315/66ff4f7a-5363-46b7-8718-6c310ed14c81
 
 
 ## Screenshots
-![HomePage](https://github.com/shreya6s/TicTacToe/assets/120666315/505440b1-6325-49bb-a157-187de12732d9)
 
+![HomePage](https://github.com/shreya6s/TicTacToe/assets/120666315/17129a5f-15d8-4d95-8888-2e66cb8da702)
 
 ![Game](https://github.com/shreya6s/TicTacToe/assets/120666315/5214bac2-c0ba-46f9-a61b-ea8d6ab789d8)
