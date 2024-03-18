@@ -23,14 +23,16 @@ To get started with the game:
 ## Demo
 
 Demo video of the game is provided in the folder named "demo".
-Short Clip of the single player mode is provided below.
+Short Clip of the Single Player and Multi Player Mode is provided below.
+
+https://github.com/shreya6s/TicTacToe/assets/120666315/d6cb88af-d180-48da-8d91-b691380b8495
 
 
-https://github.com/shreya6s/TicTacToe/assets/120666315/8d8afa9c-905c-4d09-b40d-2a674a5637d7
+https://github.com/shreya6s/TicTacToe/assets/120666315/66ff4f7a-5363-46b7-8718-6c310ed14c81
 
 
 ## Screenshots
+![HomePage](https://github.com/shreya6s/TicTacToe/assets/120666315/505440b1-6325-49bb-a157-187de12732d9)
 
-![Home](https://github.com/shreya6s/TicTacToe/assets/120666315/89fbee14-2e53-4c27-a34a-7c66a8e8e4f5)
 
-![Game](https://github.com/shreya6s/TicTacToe/assets/120666315/ca9f9957-5fa3-44c1-975d-ecc397297fd0)
+![Game](https://github.com/shreya6s/TicTacToe/assets/120666315/5214bac2-c0ba-46f9-a61b-ea8d6ab789d8)
