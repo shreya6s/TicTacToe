@@ -32,6 +32,5 @@ https://github.com/shreya6s/TicTacToe/assets/120666315/66ff4f7a-5363-46b7-8718-6
 
 ## Screenshots
 
-![HomePage](https://github.com/shreya6s/TicTacToe/assets/120666315/17129a5f-15d8-4d95-8888-2e66cb8da702)
-
-![Game](https://github.com/shreya6s/TicTacToe/assets/120666315/5214bac2-c0ba-46f9-a61b-ea8d6ab789d8)
+![HomePage](https://github.com/shreya6s/TicTacToe/assets/120666315/94fc3baf-4085-4fcb-b8c3-a486224476b2)
+![Game](https://github.com/shreya6s/TicTacToe/assets/120666315/94dd3380-000a-44a7-82cd-c80fea3d54c7)
